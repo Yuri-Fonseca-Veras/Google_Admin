@@ -1,4 +1,6 @@
 {
-    "email": "SEU_EMAIL_AQUI",
-    "senha": "SENHA_DO_EMAIL"
+    "email": "SEU EMAIL GOOGLE",
+    "senha": "SENHA DO EMAIL",
+    "reset_senha_01": "SENHA 01 PARA TENTATIVA",
+    "reset_senha_02": "SENHA 02 PARA TENTATIVA"
 }
